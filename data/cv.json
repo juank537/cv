@@ -1,0 +1,233 @@
+{
+  "personal_info": {
+    "full_name": "Juan Carlos Aliaga Oquendo",
+    "title": "Ingeniero Informático",
+    "title_en": "Computer Engineer",
+    "phone": "+53 5 265 3736",
+    "email": "juank537@gmail.com",
+    "address": "Continental No. 7 entre Jorge y D'Strampes, Diez de Octubre, La Habana, Cuba",
+    "linkedin": "https://www.linkedin.com/in/juank537/",
+    "github": "https://github.com/juank537",
+    "website": "",
+    "profile_image": "/profile.jpg"
+  },
+  "summary": "Ingeniero Informático con más de 15 años de experiencia laboral, la mayor parte como técnico informático, desempeñando tareas de soporte, asistencia y despliegue de intranets desarrolladas en SharePoint 2010 para varios clientes. Experiencia en la atención a clientes y capacitación de usuarios finales. En los últimos años me he dedicado al desarrollo web de herramientas de gestión interna utilizando frameworks como Laravel, Spring Boot y Vue JS. En la actualidad me mantengo estudiando para mejorar en mi proyección como programador y elevar mi nivel profesional.",
+  "summary_en": "Computer Engineer with over 15 years of professional experience, primarily as an IT technician providing support, assistance, and deployment of SharePoint 2010 intranets for various clients. Experienced in client service and end-user training. In recent years, I have focused on web development of internal management tools using frameworks such as Laravel, Spring Boot, and Vue JS. Currently, I continue studying to improve my skills as a developer and advance my professional career.",
+  "work_experience": [
+    {
+      "id": "1",
+      "company": "Autónomo",
+      "position": "Ingeniero Informático",
+      "location": "La Habana",
+      "start_date": "Abril 2022",
+      "end_date": "Actualidad",
+      "is_current": true,
+      "descriptions": [
+        "Desarrollo de proyectos de software de forma independiente.",
+        "Consultoría y soporte técnico a clientes diversos."
+      ]
+    },
+    {
+      "id": "2",
+      "company": "Empresa de Informática, Automática y Comunicaciones (Tecnomática)",
+      "position": "Especialista en Ciencias Informáticas",
+      "location": "La Habana",
+      "start_date": "Mayo 2019",
+      "end_date": "Abril 2022",
+      "is_current": false,
+      "descriptions": [
+        "Mantenimiento a intranets en MOSS 2010.",
+        "Diseño, desarrollo y despliegue en Laravel 6 del Directorio Telefónico de CUPET.",
+        "Desarrollo y despliegue del Proyecto de Gestión de Solicitudes de la UEB Infocomunicaciones de Tecnomática con Spring Boot."
+      ]
+    },
+    {
+      "id": "3",
+      "company": "Empresa de Informática, Automática y Comunicaciones (Tecnomática)",
+      "position": "Técnico en Ciencias Informáticas",
+      "location": "La Habana",
+      "start_date": "Enero 2008",
+      "end_date": "Mayo 2019",
+      "is_current": false,
+      "descriptions": [
+        "Experiencia probada en soporte técnico y asesoramiento a usuarios.",
+        "Administración y mantenimiento a la intranet del Ministerio de la Industria Básica (MINBAS) desarrollada en Microsoft SharePoint Server 2010 (MOSS).",
+        "Diseño, desarrollo e implementación de intranets desarrolladas en MOSS 2010 (2011-2014) para EMCOR, EMGEF, IGP, Cubalub, EIPP, CUPET, Geominera Pinar y para la propia empresa Tecnomática.",
+        "Diseño de las multimedias del MINBAS para la Asamblea del Poder Popular en los años 2008, 2009 y 2010.",
+        "Diseño, desarrollo e implementación del Sistema de Gestión de Proyectos (GESPROY) en MOSS 2010 en la Refinería de Cienfuegos (2010)."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "institution": "Universidad Tecnológica de La Habana \"José Antonio Echeverría\"",
+      "degree": "Ingeniería Informática",
+      "location": "La Habana, Cuba",
+      "start_date": "",
+      "end_date": "2022",
+      "description": ""
+    },
+    {
+      "id": "2",
+      "institution": "Instituto Politécnico de Informática \"Pablo de la Torriente Brau\"",
+      "degree": "Bachiller Técnico Medio en Informática",
+      "location": "Playa, La Habana, Cuba",
+      "start_date": "",
+      "end_date": "2007",
+      "description": ""
+    }
+  ],
+  "complementary_training": [
+    {
+      "id": "1",
+      "course": "Curso de Administración en SharePoint 2010",
+      "institution": "Escuela de Formación Técnica de Chile (en Centro Politécnico del Petróleo)",
+      "date": "Mayo 2016"
+    },
+    {
+      "id": "2",
+      "course": "Curso de Programación en SharePoint 2010",
+      "institution": "Escuela de Formación Técnica de Chile (en Centro Politécnico del Petróleo)",
+      "date": "Mayo 2016"
+    },
+    {
+      "id": "3",
+      "course": "Scrum Foundation Professional Certificate",
+      "institution": "CertiProf (vía web)",
+      "date": "Julio 2020"
+    }
+  ],
+  "skills": {
+    "programming_languages": [
+      {
+        "name": "PHP",
+        "level": "Medio"
+      },
+      {
+        "name": "Java",
+        "level": "Medio"
+      },
+      {
+        "name": "Python",
+        "level": "Básico"
+      },
+      {
+        "name": "JavaScript",
+        "level": "Básico"
+      },
+      {
+        "name": "SQL",
+        "level": "Medio"
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "Laravel",
+        "level": "Medio"
+      },
+      {
+        "name": "Spring Boot",
+        "level": "Básico"
+      },
+      {
+        "name": "Vue JS",
+        "level": "Básico"
+      },
+      {
+        "name": "FastAPI",
+        "level": "Básico"
+      }
+    ],
+    "databases": [
+      "SQL Server",
+      "MariaDB",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "tools": [
+      "Visual Studio Code",
+      "IntelliJ IDEA",
+      "Navicat",
+      "Insomnia",
+      "MobaXterm",
+      "VMWare WorkStation",
+      "Microsoft Office"
+    ],
+    "other": [
+      "Microsoft SharePoint Server 2010 (MOSS)",
+      "Scrum"
+    ]
+  },
+  "languages": [
+    {
+      "language": "Español",
+      "proficiency": "Nativo"
+    },
+    {
+      "language": "Inglés",
+      "proficiency": "Intermedio (B2)"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "name": "Directorio Telefónico CUPET",
+      "description": "Directorio telefónico digital para CUPET desarrollado con Laravel 6. Permite la búsqueda y gestión de contactos internos de la empresa.",
+      "description_en": "Digital phone directory for CUPET developed with Laravel 6. Allows searching and managing internal company contacts.",
+      "technologies": [
+        "Laravel 6",
+        "PHP",
+        "MySQL",
+        "Bootstrap"
+      ],
+      "github_url": "",
+      "live_url": "",
+      "thumbnail": "/projects/directorio.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Gestión de Solicitudes UEB",
+      "description": "Sistema de gestión de solicitudes para la UEB Infocomunicaciones de Tecnomática. Desarrollado con Spring Boot para el seguimiento y control de solicitudes internas.",
+      "description_en": "Request management system for Tecnomática's UEB Infocomunicaciones. Developed with Spring Boot for tracking and controlling internal requests.",
+      "technologies": [
+        "Spring Boot",
+        "Java",
+        "PostgreSQL",
+        "Thymeleaf"
+      ],
+      "github_url": "",
+      "live_url": "",
+      "thumbnail": "/projects/solicitudes.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Intranet MINBAS (MOSS 2010)",
+      "description": "Diseño, desarrollo e implementación de la intranet del Ministerio de la Industria Básica utilizando Microsoft SharePoint Server 2010.",
+      "description_en": "Design, development and implementation of the Ministry of Basic Industry's intranet using Microsoft SharePoint Server 2010.",
+      "technologies": [
+        "SharePoint 2010",
+        "MOSS",
+        "C#",
+        "SQL Server"
+      ],
+      "github_url": "",
+      "live_url": "",
+      "thumbnail": "/projects/intranet.jpg"
+    },
+    {
+      "id": "4",
+      "name": "GESPROY - Gestión de Proyectos",
+      "description": "Sistema de Gestión de Proyectos desarrollado en MOSS 2010 para la Refinería de Cienfuegos. Permite planificar y dar seguimiento a proyectos industriales.",
+      "description_en": "Project Management System developed in MOSS 2010 for the Cienfuegos Refinery. Allows planning and tracking of industrial projects.",
+      "technologies": [
+        "SharePoint 2010",
+        "MOSS",
+        "SQL Server"
+      ],
+      "github_url": "",
+      "live_url": "",
+      "thumbnail": "/projects/gesproy.jpg"
+    }
+  ]
+}
